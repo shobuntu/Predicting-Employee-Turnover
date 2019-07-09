@@ -1,4 +1,3 @@
-#redesigned-disco
 #Predicting Employee Turnover.
 
 Project Problem Statement:
